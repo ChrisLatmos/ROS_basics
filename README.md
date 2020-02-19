@@ -7,7 +7,7 @@ Packages:
 
 beginner_tutorials (ROS wiki)
 
-auto_vehicle (obstacle avoidance algorithm in stdr_simulator)
+auto_vehicle (obstacle avoidance algorithm for stdr_simulator)
 
 mapping (gmapping launch file)
 
