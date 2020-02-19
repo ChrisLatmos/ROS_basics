@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/christos/catkin_ws/src/crsm-slam-ros-pkg/crsm_slam/include/crsm_slam/crsm_map.h
+crsm_mapInfo.h
+/home/christos/catkin_ws/src/crsm-slam-ros-pkg/crsm_slam/include/crsm_slam/crsm_mapInfo.h
+map
+-
+iostream
+-
+
+/home/christos/catkin_ws/src/crsm-slam-ros-pkg/crsm_slam/include/crsm_slam/crsm_mapInfo.h
+
+/home/christos/catkin_ws/src/crsm-slam-ros-pkg/crsm_slam/src/crsm_slam/crsm_map.cpp
+crsm_slam/crsm_map.h
+-
+

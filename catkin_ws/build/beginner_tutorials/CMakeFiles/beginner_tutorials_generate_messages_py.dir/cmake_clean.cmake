@@ -1,0 +1,41 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/beginner_tutorials_generate_messages_py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_FibonacciAction.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_CounterActionGoal.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_FibonacciActionFeedback.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_CounterWithDelayAction.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_CounterActionFeedback.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Num.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_FibonacciActionResult.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_CounterWithDelayActionFeedback.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_FibonacciActionGoal.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_CounterWithDelayResult.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_CounterWithDelayGoal.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_CounterActionResult.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_CounterGoal.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_CounterFeedback.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_CounterWithDelayFeedback.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_CounterResult.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_CounterWithDelayActionResult.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_CounterAction.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_FibonacciGoal.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_CounterWithDelayActionGoal.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_FibonacciFeedback.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_FibonacciResult.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_AddTwoInts.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/msg/__init__.py"
+  "/home/christos/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/srv/__init__.py"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang)
+  INCLUDE(CMakeFiles/beginner_tutorials_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

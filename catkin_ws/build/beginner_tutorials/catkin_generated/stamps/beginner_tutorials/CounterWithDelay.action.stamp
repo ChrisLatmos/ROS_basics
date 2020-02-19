@@ -1,0 +1,5 @@
+int32 count_up_to           #goal(REQUEST)
+---
+string result_message       #result(RESPONSE) ACTIVE, SUCCEEDED, ABORTED
+---
+int32 counts_elapsed        #feedback

@@ -1,0 +1,8 @@
+prefix=/home/christos/catkin_ws/install
+
+Name: simple_robot_msgs
+Description: Description of simple_robot_msgs
+Version: 0.0.0
+Cflags: -I/home/christos/catkin_ws/install/include
+Libs: -L/home/christos/catkin_ws/install/lib 
+Requires: roscpp rospy std_msgs message_runtime actionlib_msgs

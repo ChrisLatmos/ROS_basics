@@ -1,0 +1,8 @@
+prefix=/home/christos/catkin_ws/install
+
+Name: service_temp
+Description: Description of service_temp
+Version: 0.0.0
+Cflags: -I/home/christos/catkin_ws/install/include
+Libs: -L/home/christos/catkin_ws/install/lib -lservice_temp
+Requires: message_runtime roscpp rospy std_msgs

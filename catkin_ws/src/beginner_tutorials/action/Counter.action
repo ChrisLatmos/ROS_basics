@@ -1,0 +1,5 @@
+int32 count_up_to
+---
+string result_message
+---
+int32 current_state

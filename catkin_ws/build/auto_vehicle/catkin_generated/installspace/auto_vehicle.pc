@@ -1,0 +1,8 @@
+prefix=/home/christos/catkin_ws/install
+
+Name: auto_vehicle
+Description: Description of auto_vehicle
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/christos/catkin_ws/install/lib 
+Requires: 

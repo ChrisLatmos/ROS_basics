@@ -1,0 +1,8 @@
+prefix=/home/christos/catkin_ws/install
+
+Name: crsm_slam
+Description: Description of crsm_slam
+Version: 1.0.3
+Cflags: -I/home/christos/catkin_ws/install/include
+Libs: -L/home/christos/catkin_ws/install/lib -lcrsm_laser -lcrsm_map -lcrsm_slam
+Requires: roscpp tf nav_msgs geometry_msgs sensor_msgs

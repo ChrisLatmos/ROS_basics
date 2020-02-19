@@ -1,0 +1,2 @@
+auto_vehicle:autonomous_exploration:beginner_tutorials:crsm-slam-ros-pkg/crsm_slam:learning_tf:robot_setup_tf:simple_robot:simple_robot_msgs:stdr_tele:using_markersch
+-DCATKIN_DEVEL_PREFIX=/home/christos/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/christos/catkin_ws/install -G Unix Makefiles

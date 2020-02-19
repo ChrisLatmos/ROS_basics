@@ -1,0 +1,8 @@
+prefix=/home/christos/catkin_ws/install
+
+Name: complex_com
+Description: Description of complex_com
+Version: 0.0.0
+Cflags: -I/home/christos/catkin_ws/install/include
+Libs: -L/home/christos/catkin_ws/install/lib -lcomplex_com
+Requires: message_runtime roscpp rospy std_msgs

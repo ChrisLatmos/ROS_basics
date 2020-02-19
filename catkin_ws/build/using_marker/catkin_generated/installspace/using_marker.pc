@@ -1,0 +1,8 @@
+prefix=/home/christos/catkin_ws/install
+
+Name: using_marker
+Description: Description of using_marker
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/christos/catkin_ws/install/lib 
+Requires: 
